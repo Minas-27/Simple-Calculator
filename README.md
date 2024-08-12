@@ -13,7 +13,7 @@ Functionality: Uses basic Kotlin programming and Android components to perform a
 Error Handling: Basic checks to handle invalid inputs gracefully.
 
 # Installation:
-Clone this repository: git clone https://github.com/yourusername/your-repo.git
+Clone this repository: git clone https://github.com/Minas-27/Simple-Calculator.git
 Open the project in Android Studio.
 Build and run the app on an Android device or emulator.
 
